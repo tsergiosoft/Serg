@@ -2,7 +2,7 @@ import numpy
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi there branch 1, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'Hi there again, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
